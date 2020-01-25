@@ -2,7 +2,7 @@ package com.hackerrank.practice.jan;
 
 import java.util.Scanner;
 
-public class Solution {
+public class BreadHeightCompare {
 
 	static boolean flag;
 	static int B;
