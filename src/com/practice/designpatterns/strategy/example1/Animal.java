@@ -1,4 +1,4 @@
-package com.practice.designpatterns.strategy;
+package com.practice.designpatterns.strategy.example1;
 
 public class Animal {
 	private String name;
